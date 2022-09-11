@@ -14,6 +14,7 @@ import java.util.List;
 
 public class ScooterOrderTest extends TestBase {
 
+    // здесь лежат вторые тесты
     @Test
     public void checkOrdersForDifferentUsers(){
 //   МОЖНО БЫЛО СДЕЛАТЬ НА 2 МЕТОДА , СДЕЛАЛ ТАК - ДЛЯ ТОГО, ЧТОБЫ НЕ ТРАТИТЬ ЛИШНИЕ РЕСУРСЫ - ГДЕ-ТО В ГРУППЕ ТГ ПИСАЛИ ОБ ЭТОМ

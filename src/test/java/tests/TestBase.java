@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import utils.BrowsersForDriver;
 import utils.WebDriverFactory;
 
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public abstract class TestBase {
