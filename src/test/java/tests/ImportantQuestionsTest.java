@@ -6,6 +6,7 @@ import pages.MainPage;
 
 public class ImportantQuestionsTest extends TestBase {
 
+    // здесь лежат первые тесты
     @Test
     public void checkAnswerAboutPrice(){
         MainPage mainPage = new MainPage(driver);
